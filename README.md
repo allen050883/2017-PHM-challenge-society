@@ -13,6 +13,7 @@ In this challenge, features from the following sensors are available:
 Additionally, the vehicle speed, the actual car body mass (including loading) and the track on which the train is currently driving are available.  
   
 **Table 1: The following table indicates the available features and the sensor underlying the raw data for each feature. Five features are given as a feature set for each sensor, representing spectral information in non-overlapping frequency bands for increasing frequencies. The k-th (k=1...5) feature in each feature set is computed in the same way across sensors.**  
+  
 | First Header  | Second Header |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
