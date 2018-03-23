@@ -46,5 +46,5 @@ Additionally, the vehicle speed, the actual car body mass (including loading) an
 | 1 | 1.02 | 1.04 | 1 | healthy |
 | 2	| 1.96 | 1.03	| 1	| healthy |
 | 3	| 0.89 | 1.03 |	2	| healthy |
-| … |
+
 
