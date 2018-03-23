@@ -12,7 +12,7 @@ In this challenge, features from the following sensors are available:
 
 Additionally, the vehicle speed, the actual car body mass (including loading) and the track on which the train is currently driving are available.  
 
-![Link for data](https://www.phmsociety.org/sites/all/modules/pubdlcnt/pubdlcnt.php?file=https://www.phmsociety.org/sites/phmsociety.org/files/data_challenge_0.zip&nid=2384)
+[Link for data](https://www.phmsociety.org/sites/all/modules/pubdlcnt/pubdlcnt.php?file=https://www.phmsociety.org/sites/phmsociety.org/files/data_challenge_0.zip&nid=2384)
   
   
 
