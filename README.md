@@ -24,7 +24,6 @@ Additionally, the vehicle speed, the actual car body mass (including loading) an
 | ---  | ---  | 
 | f101 - f105 |	azs_1 | 
 | f106 - f110 |	azp_1r | 
-  
 | f111 - f115 |	azp_1l |
 | f116 - f120 |	azp_2r |
 | f121 - f125 |	azp_2l |
