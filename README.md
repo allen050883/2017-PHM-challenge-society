@@ -35,7 +35,7 @@ Additionally, the vehicle speed, the actual car body mass (including loading) an
 | f181 - f185 |	az_4r |
 | f186 - f190 |	az_4l |
 
-**Table 2: Experiments provided.**
+**Table 2: Experiments provided.**  
 | ExperimentID | Payload | Speed | Track | State |
 | 1 | 1.02 | 1.04 | 1 | healthy |
 | 2	| 1.96 | 1.03	| 1	| healthy |
