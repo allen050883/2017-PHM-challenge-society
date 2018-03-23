@@ -14,7 +14,7 @@ Additionally, the vehicle speed, the actual car body mass (including loading) an
   
 **Table 1: The following table indicates the available features and the sensor underlying the raw data for each feature. Five features are given as a feature set for each sensor, representing spectral information in non-overlapping frequency bands for increasing frequencies. The k-th (k=1...5) feature in each feature set is computed in the same way across sensors.**  
 |Feature set per sensor|	Sensors|
-| :---              | :---:             |
+| ---              | ---     |
 |f101 - f105|	azs_1|
 |f106 - f110|	azp_1r|
 |f111 - f115|	azp_1l|
