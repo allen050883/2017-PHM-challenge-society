@@ -6,7 +6,7 @@
 *Figure 1. Diagram of a simplified vehicle model (See [1]). Red dots are sensor locations.*  
   
 In this challenge, features from the following sensors are available:  
-< az_il, az_ir - vertical acceleration of wheelset axle (i = 1,2,3,4)  
-< azp_il, azp_ir - vertical acceleration on bogie frame primary suspension level (above wheelset axle, i = 1,2 for leading bogie, and i = 3,4 for trailing bogie)  
-< azs_i, azs_i - vertical acceleration on car body secondary suspension level (i = 1 above the leading bogie, and i = 2 above the trailing bogie)  
+<az_il, az_ir - vertical acceleration of wheelset axle (i = 1,2,3,4)  
+<azp_il, azp_ir - vertical acceleration on bogie frame primary suspension level (above wheelset axle, i = 1,2 for leading bogie, and i = 3,4 for trailing bogie)  
+<azs_i, azs_i - vertical acceleration on car body secondary suspension level (i = 1 above the leading bogie, and i = 2 above the trailing bogie)  
 Additionally, the vehicle speed, the actual car body mass (including loading) and the track on which the train is currently driving are available.
